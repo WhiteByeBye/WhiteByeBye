@@ -40,7 +40,7 @@
 
 ## 🤔 I didn't mean to stand you up.
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Whitebye&layout=compact&hide=Text,AUTO_DETECTED,Other)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
 
 ## 🗓️ TodoList
 
