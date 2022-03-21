@@ -30,8 +30,8 @@
 
 [![Gatsby](https://img.shields.io/badge/-Gastby-0e83cd?style=flat-square&logo=gatsby&logoColor=white)](https://rongxinxu.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/whitebye)
-[![BiliBili](https://img.shields.io/badge/-i海海海-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/101772328)
-[![Steam](https://img.shields.io/badge/-Rongxin_Xu-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/rongxinxu)
+[![BiliBili](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/101772328)
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/rongxinxu)
 [![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/rongxinxu)
 
 ## 🎮 Nooooooob…
@@ -40,7 +40,7 @@
 
 ## 🤔 I didn't mean to stand you up.
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED)
 
 ## 🗓️ TodoList
 
