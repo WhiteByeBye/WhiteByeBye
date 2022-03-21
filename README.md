@@ -36,7 +36,7 @@
 
 ## 🎮 Nooooooob…
 
-![Genshin Dashboard](https://genshin-card.getloli.com/4,10,13,19,22,27,30,37,42,58,59/279928949.png)
+![Genshin Dashboard](https://genshin-card.himiku.com/0-59/320075411.png)
 
 ## 🤔 I didn't mean to stand you up.
 
