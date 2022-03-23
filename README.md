@@ -26,7 +26,7 @@
 
 ## 📫 Contact
 
-* 学习使用 git 中，如果仓库有任何不规范的地方欢迎各位大佬指正（轻喷
+* Learning to use Git, if there are any irregularities in the repository, you are welcome to point it out!
 
 [![Gatsby](https://img.shields.io/badge/-Gastby-0e83cd?style=flat-square&logo=gatsby&logoColor=white)](https://rongxinxu.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/whitebye)
