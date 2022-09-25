@@ -1,10 +1,11 @@
+![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
 
 # Rongxin Xu 👀
 
 > ✨A researcher who has just launched ✨
 >
-> ![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WhiteByeBye&layout=compact&count_private=false&hide_border=true" alt="">
 
