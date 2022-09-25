@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My GitHub Stats&hide_border=true" alt=""/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My GitHub Stats&hide_border=true" alt=""/>
 
-# Hi, Rongxin Xu 👀
+# Hi, I’m Rongxin Xu 👀
 
 > ✨A researcher who has just launched ✨
 >
