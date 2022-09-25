@@ -45,7 +45,7 @@
 ## 🤔 I didn't mean to stand you up
 
 ![Recent Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
-[![My Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github&custom_title=My Contribution Graph&color=F39C12&bg_color=FFFFFF)](https://github.com/whitebyebye/github-readme-activity-graph)
+[![My Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github&custom_title=My%20Contribution%20Graph&color=F39C12&bg_color=FFFFFF)](https://github.com/whitebyebye/github-readme-activity-graph)
 
 ## 🗓️ TodoList
 
