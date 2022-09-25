@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=Dashboard&hide_border=true" alt=""/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My GitHub Stats&hide_border=true" alt=""/>
 
-# Rongxin Xu 👀
+# Hi, Rongxin Xu 👀
 
 > ✨A researcher who has just launched ✨
 >
@@ -10,7 +10,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WhiteByeBye&layout=compact&count_private=false&hide_border=true" alt="">
 
 * Focus on Blockchain, Federated Learning and Post-Quantum
-
 * Love interesting small projects and all kinds of data science / mining competitions
 
 <br/>
@@ -27,6 +26,8 @@
 ![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=fff)
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=whitebyebye&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Contact
 
 * Learning to use Git, if there are any irregularities in the repository, you are welcome to point it out!
@@ -41,9 +42,11 @@
 
 ![Genshin Dashboard](https://genshin-card.getloli.com/0-59/320075411.png)
 
-## 🤔 I didn't mean to stand you up.
+## 🤔 I didn't mean to stand you up
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
+![Recent Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
+
+![Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github)
 
 ## 🗓️ TodoList
 
