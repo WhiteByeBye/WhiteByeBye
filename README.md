@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My GitHub Stats&hide_border=true" alt=""/>
-
 # Hi, I’m Rongxin Xu 👀
 
 > ✨A researcher who has just launched ✨
->
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My%20GitHub%20Stats&hide_border=true" alt=""/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WhiteByeBye&layout=compact&count_private=false&hide_border=true" alt="">
+</p>
 
 * Focus on Blockchain, Federated Learning and Post-Quantum
 * Love interesting small projects and all kinds of data science / mining competitions
