@@ -46,7 +46,7 @@
 
 ![Recent Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
 
-![Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github)
+![Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github&custom_title=My Contribution Graph&color=F39C12&bg_color=FFFFFF)
 
 ## 🗓️ TodoList
 
