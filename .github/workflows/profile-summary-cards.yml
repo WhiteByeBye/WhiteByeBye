@@ -1,4 +1,4 @@
-            - name: GitHub-Profile-Summary-Cards
+- name: GitHub-Profile-Summary-Cards
   # You may pin to the exact commit or the version.
   # uses: vn7n24fzkq/github-profile-summary-cards@ae6284625fc180957980316aea016ee10f556c6c
   uses: vn7n24fzkq/github-profile-summary-cards@latest
