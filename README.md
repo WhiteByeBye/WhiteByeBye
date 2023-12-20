@@ -1,52 +1,83 @@
-![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=F7BC5B&vCenter=true&width=600&height=70&lines=Rongxin+Xu;Python;Federated+Learning;Machine+Learning;Deep+Learning)](https://git.io/typing-svg)
+ 
+<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D97CB&height=100&section=header"/-->
+---
+### ▶️ GitHub Stats
+---
+![Profile views counter](https://komarev.com/ghpvc/?username=WhiteByeBye&style=flat-square)
 
-# Hi, I’m Rongxin Xu 👀
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
-> ✨A researcher who has just launched ✨
-<p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My%20GitHub%20Stats&hide_border=true" alt=""/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WhiteByeBye&layout=compact&count_private=false&hide_border=true" alt="">
-</p>
 
-* Focus on Blockchain, Federated Learning and Post-Quantum
-* Love interesting small projects and all kinds of data science / mining competitions
+---
+### ▶️ About Me
+---
+- 👋 I am a Graduate Research Assistant at [ISML Lab, Gachon University](https://ai-security.github.io/professor_main_e.htm), and doing my Masters degree in Computer Engineering at [Gachon University](https://www.gachon.ac.kr/kor/index.do).
+- 🔭 My area of research is federated learning, and my research topic is detection of poisoning attacks in federated learning.
+- 👀 I've been interested in programming since the very first time I took C++ course in my undergraduate degree.
+  - After that, I have written codes in other programming languages at some basic level, such as JavaScript, MATLAB, and C.
+  - Now, I mostly code in **Python** because it is more suitable for research and development in AI, machine learning, and deep learning.
 
-<br/>
+---
+### ▶️ Research Experience
+---
 
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![React](https://img.shields.io/badge/-React-3178c6?style=flat-square&logo=React&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
-![Java](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-7f52ff?style=flat-square&logo=Csharp&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff)
-![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=fff)
-![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+- **Graduate Research Assistant** | March 2022 - Present | Information Security & Machine Learning Lab, Gachon University, South Korea
+  - Research on Federated Learning
+    - Developed a federated learning framework using Python, PyTorch, and threading
+    - Implemented and evaluated the performance of various deep learning models e.g., AlexNet, VGG16, and ResNet18 within my federated learning codebase
+    - Implemented and analyzed the impact of poisoning attacks on the performance of federated learning
+    - Integrated state-of-the-art poisoning attack defense methods into the codebase for benchmarking purposes
+    - Proposed a novel defense method that outperformed the state-of-the-art in terms of poisoning attack detection accuracy
+    - Authored a research article currently under review in an IEEE journal
+    - Currently surveying defense methods against poisoning attacks in asynchronous federated learning
+ 
+  - Research on Tracing Attackers Over Overlay Networks
+    - Conducted a thorough survey on deanonymization attacks targeting the Tor overlay network, with a specific focus on deep learning-based correlation attacks
+    - Performed an in-depth analysis of the prominent deep learning-based correlation attack, <a href="https://github.com/traffic-analysis/deepcoffea/" target="_blank">DeepCoFFEA</a> identifying critical issues such as high memory consumption and correlation time
+    - Successfully mitigated memory-related challenges, reducing consumption from 133GB to 70GB through effective memory deallocation and proactive garbage collection strategies
+    - Achieved a seven times reduction in correlation time by leveraging GPU processing, facilitated by PyCUDA library.
+    - Published a <a href="https://ieeexplore.ieee.org/abstract/document/10309127/" target="_blank">research article</a> in IEEE Access journal, outlining the findings and implemented solutions
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=whitebyebye&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+- **Intern** | February 2021 - April 2021 | National Center of Artificial Intelligence at UET Peshawar, Pakistan
+  - Contributed to the Landslide Monitoring and Alert System Project
+  - Collected landslide videos to form a dataset for input into deep learning models
+  - Segmented and annotated videos into pre-landslide, landslide, and post-landslide phases by utilizing a custom Python script
 
-## 📫 Contact
 
-* Learning to use Git, if there are any irregularities in the repository, you are welcome to point it out!
+---
+### ▶️ Tools & Skills
+---
 
-[![Gatsby](https://img.shields.io/badge/-Gastby-0e83cd?style=flat-square&logo=gatsby&logoColor=white)](https://rongxinxu.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/whitebye)
-[![BiliBili](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/101772328)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/rongxinxu)
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/rongxinxu)
+- *Languages* 👉 Python | C/C++ | JavaScript
 
-## 🎮 Nooooooob…
+- *ML/DL Frameworks* 👉 PyTorch | Keras | TensorFlow | scikit-learn
 
-![Genshin Dashboard](https://genshin-card.getloli.com/0-59/320075411.png)
+- *Python Libraries* 👉 NumPy | OpenCV | Matplotlib | Pandas | scikit-image | Tkinter | sqlite3 | PyCUDA | threading
 
-## 🤔 I didn't mean to stand you up
+- *Development Tools* 👉 Visual Studio Code | Jupyter Notebook | Git | GitHub | Docker
 
-![Recent Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
-[![My Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github&custom_title=My%20Contribution%20Graph&color=F39C12&bg_color=FFFFFF)](https://github.com/whitebyebye/github-readme-activity-graph)
+- *Operating Systems* 👉 Ubuntu | Windows
 
-## 🗓️ TodoList
+- *Soft Skills* 👉 Communication | Teamwork | Problem-Solving | Critical Thinking
+ 
+---
+### ▶️ Research Publications
+---
+- M. A. Hafeez, **Y. Ali**, K. H. Han and S. O. Hwang, "GPU-Accelerated Deep Learning-Based Correlation Attack on Tor Networks," in IEEE Access, vol. 11, pp. 124139-124149, 2023, doi:10.1109/ACCESS.2023.3330208. (Impact Factor: 3.9)
+  - Code is available <a href="https://github.com/yasirali0/fast_correlation_attack_on_tor/" target="_blank">here</a>.
+- Y. Ali, K. H. Han, et al. "An Optimal Two-Step Approach for Defense Against Poisoning Attacks in Federated Learning" *(under review)*
 
-- [ ] Start an interesting small project
+
+---
+### 🔗 Contact
+---
+- Let's connect on Linkedin: <a href="https://linkedin.com/in/yasir-ali-v2/" target="_blank">LinkedIn</a>
+- You can reach out to me at yasir.ali.v2.0@gmail.com
+
+---
+😃 Fun fact
+-  I am very good and fast at learning programming languages and tools, but not so much at learning natural languages. Nowadays, I'm trying to learn Korean.
