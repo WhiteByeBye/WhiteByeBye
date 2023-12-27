@@ -1,52 +1,26 @@
-![](https://komarev.com/ghpvc/?username=whitebyebye&color=green)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=F7BC5B&vCenter=true&width=600&height=70&lines=Rongxin+Xu;Python;Federated+Learning;Machine+Learning;Deep+Learning)](https://git.io/typing-svg)
+ 
+<!--img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D97CB&height=100&section=header"/-->
+---
+### ▶️ GitHub Stats
+---
+![Profile views counter](https://komarev.com/ghpvc/?username=WhiteByeBye&style=flat-square)
 
-# Hi, I’m Rongxin Xu 👀
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/WhiteByeBye/WhiteByeBye/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
-> ✨A researcher who has just launched ✨
-<p align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=WhiteByeBye&show_icons=true&custom_title=My%20GitHub%20Stats&hide_border=true" alt=""/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=WhiteByeBye&layout=compact&count_private=false&hide_border=true" alt="">
-</p>
 
-* Focus on Blockchain, Federated Learning and Post-Quantum
-* Love interesting small projects and all kinds of data science / mining competitions
+---
+### ▶️ About Me
+---
+- 👋 I am a first-year Ph.D student at [ACEM, Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/). I received my M.S. in Management in 2023 and B.S. in Management in 2020 from from [Hunan University](http://www-en.hnu.edu.cn/).
+- 🔭 My research areas are federated learning, blockchain, and business intelligence.
 
-<br/>
 
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![React](https://img.shields.io/badge/-React-3178c6?style=flat-square&logo=React&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
-![Java](https://img.shields.io/badge/-Java-ce0000?style=flat-square&logo=Java&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-7f52ff?style=flat-square&logo=Csharp&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![C++](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff)
-![Golang](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=fff)
-![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=whitebyebye&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Contact
-
-* Learning to use Git, if there are any irregularities in the repository, you are welcome to point it out!
-
-[![Gatsby](https://img.shields.io/badge/-Gastby-0e83cd?style=flat-square&logo=gatsby&logoColor=white)](https://rongxinxu.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/whitebye)
-[![BiliBili](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/101772328)
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/rongxinxu)
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/rongxinxu)
-
-## 🎮 Nooooooob…
-
-![Genshin Dashboard](https://genshin-card.getloli.com/0-59/320075411.png)
-
-## 🤔 I didn't mean to stand you up
-
-![Recent Development Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WhiteBye&layout=compact&hide=Text,AUTO_DETECTED,Other)
-[![My Recent Development Stats](https://activity-graph.herokuapp.com/graph?username=whitebyebye&theme=github&custom_title=My%20Contribution%20Graph&color=F39C12&bg_color=FFFFFF)](https://github.com/whitebyebye/github-readme-activity-graph)
-
-## 🗓️ TodoList
-
-- [ ] Start an interesting small project
+---
+### 🔗 Contact
+---
+- Let's connect on <a href="https://twitter.com/RongxinXu" target="_blank">X</a> (a.k.a twitter)!
+- Feel free to reach out me by email.
