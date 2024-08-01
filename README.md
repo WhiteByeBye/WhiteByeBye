@@ -15,7 +15,7 @@
 ---
 ### ▶️ About Me
 ---
-- 👋 I am a first-year Ph.D student at [ACEM, Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/). I received my M.S. in Management in 2023 and B.S. in Management in 2020 from from [Hunan University](http://www-en.hnu.edu.cn/).
+- 👋 I am a second-year Ph.D. candidate at [ACEM, Shanghai Jiao Tong University](https://www.acem.sjtu.edu.cn/en/). I received my M.S. in Management in 2023 and B.S. in Management in 2020 from from [Hunan University](http://www-en.hnu.edu.cn/).
 - 🔭 My research areas are federated learning, blockchain, and business intelligence.
 
 
